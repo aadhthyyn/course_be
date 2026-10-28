@@ -7,7 +7,7 @@ const server = jsonServer.create();
 server.use(jsonServer.defaults());
 // defaul returns middlrewars (parsing,stringify,resourse sharing b/w difforgins ) used by json Servern-tells our server to use these middlewares
 
-const route = jsonServer.router('db.json');
+const route = jsonServer.router("db.json");
 // tells the place where the data should be saved
 
 server.use(route);

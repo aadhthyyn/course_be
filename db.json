@@ -1,0 +1,21 @@
+{
+  "course": [
+    {
+      "courseName": "merqqq",
+      "code": "e,wfm",
+      "duration": "1 Year",
+      "fees": "123",
+      "instructor": "ew,f n",
+      "id": "glaX3P0CiNw"
+    },
+    {
+      "courseName": "q",
+      "code": "wq",
+      "duration": "11",
+      "fees": "12345",
+      "instructor": "sa",
+      "id": "6uhn4EhnNqg"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
